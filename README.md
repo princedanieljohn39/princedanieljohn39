@@ -5,6 +5,6 @@
 - 📫 How to reach me princedanieljohn39@gmail.com
 
 <!---
-princedanieljohn39/princedanieljohn39 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Readme/princedanieljohn39 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
