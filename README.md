@@ -1,9 +1,5 @@
 Hi 👋 My name is Prince-Daniel
-I'm a Front-end Developer 
-🌍  I'm based in Cross-River State 
-✉️  You can contact me at [princedanieljohn39@gmail.com](mailto:princedanieljohn39@gmail.com) 
-🧠  I'm learning Javascript 
-🤝  I'm open to collaborating on Web3 front-end projects
+==============================Front-end Developer-------------------* 🌍  I'm based in Cross-River State* ✉️  You can contact me at [princedanieljohn39@gmail.com](mailto:princedanieljohn39@gmail.com)* 🧠  I'm learning Javascript* 🤝  I'm open to collaborating on Web3 front-end projects
 
 ### Skills
 
