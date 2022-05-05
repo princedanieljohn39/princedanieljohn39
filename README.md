@@ -3,7 +3,7 @@ Hi 👋 My name is Prince-Daniel
 <br>🌍  I'm based in Cross-River State 
 <br>✉️  You can contact me at [princedanieljohn39@gmail.com](mailto:princedanieljohn39@gmail.com) 
 <br>🧠  I'm learning Javascript 
-<br>🤝  I'm open to collaborating on Web3 front-end projects
+<br>🤝  I'm open to collaborating on Web3 front-end projects for learning purposes
 <br> No tailwind project has been uploaded yet
 
 ### Skills
